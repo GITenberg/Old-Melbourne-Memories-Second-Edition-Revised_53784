@@ -1,0 +1,30 @@
+_repo: Old-Melbourne-Memories-Second-Edition-Revised_53784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boldrewood, Rolf
+    alias: Browne, Thomas Alexander
+    birthdate: 1826
+    deathdate: 1915
+    gutenberg_agent_id: '549'
+    url: http://www.gutenberg.org/2009/agents/549
+    wikipedia: http://en.wikipedia.org/wiki/Rolf_Boldrewood
+description: ''
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria -- Social life and customs'
+- !lcsh 'Victoria -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- Australia -- Melbourne (Vic.)'
+- !lcc 'DU'
+- GITenberg
+title: 'Old Melbourne Memories
+
+  Second Edition, Revised'
+url: http://www.gutenberg.org/ebooks/53784
